@@ -58,12 +58,12 @@
             e.addEventListener("click", showMenu);
         });
 
-        forEach($(".Menu > li.-hasSubmenu li"), function(e){
-            e.addEventListener("mouseenter", hideAllInactiveMenus);
-        });
+        // forEach($(".Menu > li.-hasSubmenu li"), function(e){
+        //     e.addEventListener("click", hideAllInactiveMenus);
+        // });
 
         forEach($(".Menu > li.-hasSubmenu li.-hasSubmenu"), function(e){
-            e.addEventListener("mouseenter", showMenu);
+            e.addEventListener("click", showMenu);
         });
 
         document.addEventListener("click", hideAllInactiveMenus);
