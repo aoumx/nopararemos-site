@@ -226,6 +226,7 @@ element
     .Menu li li.-hasSubmenu > a,
     .Menu:not(.-horizontal) > li.-hasSubmenu > a {
         padding-right: 28px;
+        width: 200px;
     }
 
     /* Minimum width of dropdown menus */

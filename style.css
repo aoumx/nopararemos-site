@@ -16,3 +16,14 @@
   top: 350px;
   left: 50px;
 }
+
+.datos {
+  background-color: black !important;
+  color: white;
+}
+
+.texto {
+  width: 800px;
+  padding: 10px;
+}
+
