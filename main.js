@@ -3,4 +3,9 @@ $(document).ready(() => {
     $('.menu-button').toggle();
   })
 
+  $('.circle').on('click', () => {
+    $('body').css("background-color", "red");
+  })
+
+
 });
