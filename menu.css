@@ -16,6 +16,7 @@ element
     ul.Menu.-horizontal,
     ul.Menu.-vertical {
         display: inline-block;
+        background: white;   /* APLIQUE ACA EL FONDO DEL MENU */
     }
     ul.Menu.-floating {
         display: block;
