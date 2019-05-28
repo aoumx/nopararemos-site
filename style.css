@@ -11,7 +11,8 @@
   color: black;
 }
 
-/* .Content {
-  width: 135px;
-  border: black solid 3px;
-} */
+.Content {
+  position: relative;
+  top: 350px;
+  left: 50px;
+}
