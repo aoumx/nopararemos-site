@@ -39,7 +39,7 @@ element
     }
     .Menu.-horizontal > li {
         display: inline-block;
-        float: left;
+        /* float: left; ESTE CAMBIO LO PIDIO VSCODE*/
     }
     .Menu li > * {
         display: block;
