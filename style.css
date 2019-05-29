@@ -27,8 +27,15 @@
   padding: 10px;
 }
 
-
 .circle {
     border-radius: 50%;
+}
 
+.contact {
+  text-decoration: none !important;
+  color: black;
+}
+
+.contact:hover {
+  color: black;
 }
