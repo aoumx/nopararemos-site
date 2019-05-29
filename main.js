@@ -4,7 +4,7 @@ $(document).ready(() => {
   })
 
   $('.circle').on('click', () => {
-    $('body').css("background-color", "red");
+    $('body').css("background-image", "url(textures/texturas_-01.png)");
   })
 
 
