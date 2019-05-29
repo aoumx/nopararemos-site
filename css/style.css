@@ -48,6 +48,10 @@ a, li, p {
   color: black;
 }
 
+.nowrap-sermusical {
+  white-space: nowrap;
+}
+
 
 /* FONTS */
 @font-face {
