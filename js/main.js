@@ -1,6 +1,6 @@
 $(document).ready(() => {
   $('.submenu-click').on('click', () => {
-    $('.menu-button').toggle();
+    $('.menu-button').toggleClass();
   })
 
   $('.circle').on('click', () => {
