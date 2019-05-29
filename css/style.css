@@ -1,10 +1,10 @@
 body {
-  background: url(textures/texturas_-01.png);
+  background: url(../textures/texturas_-01.png);
   background-size: 2000px 1125px;
 }
 
 a, li, p {
-   font-family: 'oxfam_tstar_proheadline';
+   font-family: 'Orator Std';
 }
 .width-aboutus {
   width: 500px;
