@@ -48,7 +48,7 @@ element
     .Menu li > ul {
         position: absolute;
         min-width: 100%;
-        top: 0px;
+        top: -3px;
         left: 100%;
     }
     .Menu.-horizontal.-alignRight li > ul {
