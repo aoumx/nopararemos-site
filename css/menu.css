@@ -256,7 +256,8 @@ element
     /* Colour of :hover shading */
     .Menu li:hover > a:first-child,
     .Menu li.-active > a:first-child {
-        background-color: yellow;
+        background-color: black;
+        color: white;
     }
 
 /*
