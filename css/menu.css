@@ -49,7 +49,7 @@ element
         position: absolute;
         min-width: 100%;
         top: -3px;
-        left: 100%;
+        left: 101%;
     }
     .Menu.-horizontal.-alignRight li > ul {
         left: auto;
