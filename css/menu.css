@@ -231,6 +231,25 @@ element
         padding-right: 28px;
         width: 200px;
     }
+    .Menu li li.-hasSubmenu > a,
+    .Menu:not(.-horizontal) > li.-hasSubmenu > a > li.-hasSubmenu {
+        padding-right: 28px;
+        width: 500px;
+    }
+
+    /* WIDTH PROYECTOS produccion y supervision */
+    #proyectos > li.-hasSubmenu, #proyectos > li > a {
+      padding-right: 28px;
+      width: 200px !important;
+    }
+    #proyectos-produccion > li.-hasSubmenu, #proyectos-produccion > li > a {
+      padding-right: 28px;
+      width: 370px !important;
+    }
+    #proyectos-supervision > li.-hasSubmenu, #proyectos-supervision > li > a {
+      padding-right: 28px;
+      width: 200px !important;
+    }
 
     /* Minimum width of dropdown menus */
     .Menu.-horizontal li > ul,

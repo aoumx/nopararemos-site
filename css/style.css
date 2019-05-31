@@ -51,7 +51,6 @@ a, li, p {
   position: relative;
   width: 250px;
   height: 250px;
-  display: flex;
 }
 
 .text-img {
@@ -62,33 +61,33 @@ a, li, p {
 /* TEXTURAS IMAGENES POSICION */
 .uno {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 31px;
+  left: 140px;
 }
 .dos {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 20px;
+  left: 55px;
 }
 .tres {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 80px;
+  left: 95px;
 }
 .cuatro {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 95px;
+  left: 30px;
 }
 .cinco {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 130px;
+  left: 135px;
 }
 .seis {
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 147px;
+  left: 62px;
 }
 
 /* FONTS */
