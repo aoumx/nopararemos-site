@@ -9,16 +9,17 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="./css/style.css">
+  <link rel="stylesheet" type="text/css" href="./css/ultop.css">
   <link href="node_modules/lightbox2/src/css/lightbox.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="./css/menu.css" />
 </head>
 
 <body>
   <div class="Content">
-    <ul class="Menu -vertical style-border">
+    <ul id="menu-principal" class="Menu -vertical style-border">
       <li class="-hasSubmenu">
         <a href="#">Acerca de</a>
-        <ul>
+        <ul id="acerca-de">
           <div class="p-color style-border">
             <p class="texto">
               No Pararemos es una agencia creativa especializada en diseño de producción de experiencias, espacios de
@@ -36,7 +37,7 @@
       <!-- TERMINA ACERCA DE -->
       <li class="-hasSubmenu">
         <a href="#">Texturas</a>
-        <ul class="style-border">
+        <ul id="texturas" class="style-border">
           <div class="">
             <img class="circle" src="fjords.jpg">
           </div>
@@ -45,14 +46,14 @@
       <!--TERMINA TEXTURAS-->
       <li class="-hasSubmenu">
         <a href="#">Proyectos</a>
-        <ul class="style-border">
+        <ul id="proyectos" class="style-border">
           <!--PROYECTO 1-->
           <li class="-hasSubmenu">
-            <a href="#">Produccion</a>
-            <ul class="p-color style-border">
+            <a href="#">Producción</a>
+            <ul id="doritos" class="p-color style-border">
               <li class="-hasSubmenu">
                 <a href="#" class="submenu-click">Doritos</a>
-                <ul class="menu-button ">
+                <ul id="descripcion-doritos"class="menu-button ">
                   <div class="">
                     <ul class="datos">
                       <li>Año: 2019</li>
@@ -79,7 +80,7 @@
           </li>
           <li class="-hasSubmenu">
             <a href="#" class="nowrap-sermusical">Supervisión Musical</a>
-            <ul class="p-color style-border">
+            <!-- <ul class="p-color style-border">
               <li class="-hasSubmenu">
                 <a href="#" class="submenu-click">Doritos</a>
                 <ul class="menu-button">
@@ -105,14 +106,14 @@
                   </div>
                 </ul>
               </li>
-            </ul>
+            </ul> -->
           </li>
         </ul>
       </li>
       <!--TERMINA PROYECTOS-->
       <li class="-hasSubmenu">
         <a href="#">RRSS</a>
-        <ul class="style-border">
+        <ul id="rrss" class="style-border">
           <li><a href="#">Facebook</a></li>
           <li><a href="#">Instagram</a></li>
           <li><a href="#">Twitter</a></li>
@@ -121,7 +122,7 @@
       <!--TERMINA RRSS-->
       <li class="-hasSubmenu">
         <a href="#">Contacto</a>
-        <ul class="p-color style-border p-5">
+        <ul id="contacto" class="p-color style-border p-5">
           <a href="mailto: contacto@nopararemos.com" class="contact">CONTACTO@NOPARAREMOS.COM</a>
         </ul>
       </li>

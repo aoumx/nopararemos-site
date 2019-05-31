@@ -18,7 +18,7 @@ element
     ul.Menu.-horizontal,
     ul.Menu.-vertical {
         display: inline-block;
-        background: white;   /* APLIQUE ACA EL FONDO DEL MENU */
+        background: white;   /* ACA EL FONDO DEL MENU */
     }
     ul.Menu.-floating {
         display: block;
@@ -41,7 +41,7 @@ element
     }
     .Menu.-horizontal > li {
         display: inline-block;
-        /* float: left; ESTE CAMBIO LO PIDIO vscode*/
+        /* float: left; ESTE CAMBIO LO PIDIO vscode */
     }
     .Menu li > * {
         display: block;
