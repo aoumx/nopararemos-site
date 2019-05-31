@@ -18,12 +18,6 @@ a, li, p {
   color: black;
 }
 
-.Content {
-  position: relative;
-  top: 350px;
-  left: 50px;
-}
-
 .datos {
   background-color: black !important;
   color: white;

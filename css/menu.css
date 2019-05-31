@@ -8,6 +8,8 @@ element
 .Menu {
     display: none;
     position: relative;
+    top: 200px;
+    left: 50px;
 }
     /* Three basic menu layouts */
     /* This also enforces that menu is a ul, and that
