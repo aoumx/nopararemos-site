@@ -21,15 +21,76 @@
 }
 
 
+/* UL PROYECTOS PRODUCCION */
+#proyectos-produccion {
+  left: 199px;
+  width: 375px;
+}
 
+/* UL PROYECTOS SUPERVISION */
+#proyectos-supervision {
+  top: -43px;
+  left: 199px;
+}
 
-/* UL PROYECTOS */
-#doritos {
-  left: 200px;
+/* DESCRIPCION PROYECTOS  PRODUCCION*/
+#descripcion-cerveza {
+  left: 369px;
+}
+#descripcion-american {
+  top: -43px;
+  left: 369px;
+}
+#descripcion-lvmh {
+  top: -83px;
+  left: 369px;
+}
+#descripcion-azul {
+  top: -123px;
+  left: 369px;
+}
+#descripcion-hellow {
+  top: -163px;
+  left: 369px;
+}
+#descripcion-casa {
+  top: -203px;
+  left: 369px;
+}
+#descripcion-mutek {
+  top: -243px;
+  left: 369px;
+}
+#descripcion-doritos {
+  top: -283px;
+  left: 369px;
+}
+#descripcion-lancome {
+  top: -323px;
+  left: 369px;
+}
+#descripcion-jose {
+  top: -363px;
+  left: 369px;
 }
 
 
-/* DESCRIPCION PROYECTOS */
-#descripcion-doritos {
-  left: 200px;
+
+
+/* DESCRIPCION PROYECTOS  SUPERVISION*/
+#descripcion-artemio {
+  left: 199px;
+  /* height: 375px; */
+}
+#descripcion-niñas {
+  top: -43px;
+  left: 199px;
+}
+#descripcion-chivas {
+  top: -83px;
+  left: 199px;
+}
+#descripcion-camila {
+  top: -123px;
+  left: 199px;
 }

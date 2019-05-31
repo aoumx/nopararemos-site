@@ -47,6 +47,49 @@ a, li, p {
   white-space: nowrap;
 }
 
+.texturas-redondas {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  display: flex;
+}
+
+.text-img {
+  height: 30%;
+  width: 30%;
+}
+
+/* TEXTURAS IMAGENES POSICION */
+.uno {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.dos {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.tres {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.cuatro {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.cinco {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.seis {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
 
 /* FONTS */
 @font-face {
