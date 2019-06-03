@@ -1,0 +1,81 @@
+#texturas {
+  width: 340px;
+  height: 310px;
+}
+.textura {
+  background-size: 100px 100px;
+  background-repeat: no-repeat;
+  height: 100px !important;
+  width: 100px !important;
+}
+.textura > a:hover {
+  background-color: none;
+}
+ .textura > a {
+  width: 100px;
+  height: 100px !important;
+}
+.Menu li.textura:hover > a:first-child,
+.Menu li.textura.-active > a:first-child {
+  background-color: transparent;
+}
+.textura-1 {
+  background-image: url(../texturas-redondas/textura-1.png);
+  background-size: 140px 140px;
+  background-repeat: no-repeat;
+  height: 140px !important;
+  width: 140px !important;
+  position: absolute;
+  top: 107px;
+  left: 194px;
+}
+.textura-2 {
+  background-image: url(../texturas-redondas/textura-2.png);
+  background-size: 110px 110px;
+  background-repeat: no-repeat;
+  height: 110px !important;
+  width: 110px !important;
+  position: absolute;
+  top: 35px;
+  left: 111px;
+}
+.textura-3 {
+  background-image: url(../texturas-redondas/textura-3.png);
+  background-size: 130px 130px;
+  background-repeat: no-repeat;
+  height: 130px !important;
+  width: 130px !important;
+  position: absolute;
+  top: -217px;
+  left: 113px;
+}
+.textura-4 {
+  background-image: url(../texturas-redondas/textura-4.png);
+  background-size: 110px 110px;
+  background-repeat: no-repeat;
+  height: 110px !important;
+  width: 110px !important;
+  position: absolute;
+  top: -285px;
+  left: 49px;
+}
+.textura-5 {
+  background-image: url(../texturas-redondas/textura-5.png);
+  background-size: 95px 95px;
+  background-repeat: no-repeat;
+  height: 95px !important;
+  width: 95px !important;
+  position: absolute;
+  top: -311px;
+  left: 14px;
+}
+.textura-6 {
+  background-image: url(../texturas-redondas/textura-6.png);
+  background-size: 110px 110px;
+  background-repeat: no-repeat;
+  height: 110px !important;
+  width: 110px !important;
+  position: absolute;
+  top: -585px;
+  left: 34px;
+}

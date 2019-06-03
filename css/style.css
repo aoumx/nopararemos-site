@@ -28,6 +28,7 @@ a, li, p {
 .texto {
   width: 800px;
   padding: 10px;
+  line-height: 25px;
 }
 
 .circle {
@@ -45,49 +46,6 @@ a, li, p {
 
 .nowrap-sermusical {
   white-space: nowrap;
-}
-
-.texturas-redondas {
-  position: relative;
-  width: 250px;
-  height: 250px;
-}
-
-.text-img {
-  height: 30%;
-  width: 30%;
-}
-
-/* TEXTURAS IMAGENES POSICION */
-.uno {
-  position: absolute;
-  top: 31px;
-  left: 140px;
-}
-.dos {
-  position: absolute;
-  top: 20px;
-  left: 55px;
-}
-.tres {
-  position: absolute;
-  top: 80px;
-  left: 95px;
-}
-.cuatro {
-  position: absolute;
-  top: 95px;
-  left: 30px;
-}
-.cinco {
-  position: absolute;
-  top: 130px;
-  left: 135px;
-}
-.seis {
-  position: absolute;
-  top: 147px;
-  left: 62px;
 }
 
 /* FONTS */
