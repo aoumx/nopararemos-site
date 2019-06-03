@@ -2,23 +2,6 @@
   width: 340px;
   height: 310px;
 }
-.textura {
-  background-size: 100px 100px;
-  background-repeat: no-repeat;
-  height: 100px !important;
-  width: 100px !important;
-}
-.textura > a:hover {
-  background-color: none;
-}
- .textura > a {
-  width: 100px;
-  height: 100px !important;
-}
-.Menu li.textura:hover > a:first-child,
-.Menu li.textura.-active > a:first-child {
-  background-color: transparent;
-}
 .textura-1 {
   background-image: url(../texturas-redondas/textura-1.png);
   background-size: 140px 140px;
@@ -28,6 +11,11 @@
   position: absolute;
   top: 107px;
   left: 194px;
+}
+.textura-1 > a {
+  height: 140px !important;
+  width: 140px !important;
+  display: none !important;
 }
 .textura-2 {
   background-image: url(../texturas-redondas/textura-2.png);
@@ -39,6 +27,11 @@
   top: 35px;
   left: 111px;
 }
+.textura-2 > a {
+  height: 110px !important;
+  width: 110px !important;
+  display: none !important;
+}
 .textura-3 {
   background-image: url(../texturas-redondas/textura-3.png);
   background-size: 130px 130px;
@@ -49,15 +42,25 @@
   top: -217px;
   left: 113px;
 }
+.textura-3 > a {
+  height: 130px !important;
+  width: 130px !important;
+  display: none !important;
+}
 .textura-4 {
   background-image: url(../texturas-redondas/textura-4.png);
-  background-size: 110px 110px;
+  background-size: 120px 120px;
   background-repeat: no-repeat;
-  height: 110px !important;
-  width: 110px !important;
+  height: 120px !important;
+  width: 120px !important;
   position: absolute;
   top: -285px;
   left: 49px;
+}
+.textura-4 > a {
+  height: 120px !important;
+  width: 120px !important;
+  display: none !important;
 }
 .textura-5 {
   background-image: url(../texturas-redondas/textura-5.png);
@@ -69,6 +72,11 @@
   top: -311px;
   left: 14px;
 }
+.textura-5 > a {
+  height: 95px !important;
+  width: 95px !important;
+  display: none !important;
+}
 .textura-6 {
   background-image: url(../texturas-redondas/textura-6.png);
   background-size: 110px 110px;
@@ -78,4 +86,8 @@
   position: absolute;
   top: -585px;
   left: 34px;
+}.textura-6 > a {
+  height: 110px !important;
+  width: 110px !important;
+  display: none !important;
 }
