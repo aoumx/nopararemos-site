@@ -48,6 +48,12 @@ a, li, p {
   white-space: nowrap;
 }
 
+
+/* IMAGEN MAS CHICA */
+.img-chica {
+width: 90%;
+}
+
 /* FONTS */
 @font-face {
     font-family: 'oxfam_tstar_proheadline';

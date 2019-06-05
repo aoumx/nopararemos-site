@@ -251,6 +251,32 @@ element
       width: 200px !important;
     }
 
+    /* WIDTH TEXTURAS PROYECTOS */
+    #textura-uno > li.-hasSubmenu, #textura-uno > li > a {
+      padding-right: 28px;
+      width: 370px !important;
+    }
+    #textura-dos > li.-hasSubmenu, #textura-dos > li > a {
+      padding-right: 28px;
+      width: 370px !important;
+    }
+    #textura-tres > li.-hasSubmenu, #textura-tres > li > a {
+      padding-right: 28px;
+      width: 370px !important;
+    }
+    #textura-cuatro > li.-hasSubmenu, #textura-cuatro > li > a {
+      padding-right: 28px;
+      width: 370px !important;
+    }
+    #textura-cinco > li.-hasSubmenu, #textura-cinco > li > a {
+      padding-right: 28px;
+      width: 370px !important;
+    }
+    #textura-seis > li.-hasSubmenu, #textura-seis > li > a {
+      padding-right: 28px;
+      width: 370px !important;
+    }
+
     /* Minimum width of dropdown menus */
     .Menu.-horizontal li > ul,
     .Menu.-floating {
