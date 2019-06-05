@@ -74,9 +74,6 @@
   left: 369px;
 }
 
-
-
-
 /* DESCRIPCION PROYECTOS  SUPERVISION*/
 #descripcion-artemio {
   left: 199px;
@@ -93,4 +90,77 @@
 #descripcion-camila {
   top: -123px;
   left: 199px;
+}
+
+/* TEXTURAS POSICIONAMIENTO PROYECTOS */
+#textura-uno {
+  top: -110px;
+  left: 140px;
+  width: 375px;
+}
+#textura-dos {
+  top: -178px;
+  left: 223px;
+  width: 375px;
+}
+#textura-tres {
+  top: -36px;
+  left: 221px;
+  width: 375px;
+}
+#textura-cuatro {
+  top: -98px;
+  left: 285px;
+  width: 375px;
+}
+#textura-cinco {
+  top: -192px;
+  left: 320px;
+  width: 375px;
+}
+#textura-seis {
+  top: -13px;
+  left: 300px;
+  width: 375px;
+}
+
+/* DESCRIPCION TEXTURAS PROYECTOS  PRODUCCION*/
+#textura-descripcion-cerveza {
+  left: 369px;
+}
+#textura-descripcion-american {
+  top: -43px;
+  left: 369px;
+}
+#textura-descripcion-lvmh {
+  top: -3px;
+  left: 369px;
+}
+#textura-descripcion-azul {
+  top: -3px;
+  left: 369px;
+}
+#textura-descripcion-hellow {
+  top: -3px;
+  left: 369px;
+}
+#textura-descripcion-casa {
+  top: -3px;
+  left: 369px;
+}
+#textura-descripcion-mutek {
+  top: -3px;
+  left: 369px;
+}
+#textura-descripcion-doritos {
+  top: -43px;
+  left: 369px;
+}
+#textura-descripcion-lancome {
+  top: -43px;
+  left: 369px;
+}
+#textura-descripcion-jose {
+  top: -83px;
+  left: 369px;
 }
