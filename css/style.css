@@ -48,10 +48,17 @@ a, li, p {
   white-space: nowrap;
 }
 
+.p-2 {
+  line-height: 2rem;
+}
+
+#li-height {
+  line-height: 25px !important;
+}
 
 /* IMAGEN MAS CHICA */
 .img-chica {
-width: 90%;
+width: 99.9%;
 }
 
 /* FONTS */
