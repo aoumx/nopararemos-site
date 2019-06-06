@@ -75,6 +75,12 @@ width: 99.9%;
   height: 300px;
 }
 
+.logo {
+  background-color: white;
+  width: 10%;
+  height: 10%;
+}
+
 /* FONTS */
 @font-face {
     font-family: 'oxfam_tstar_proheadline';

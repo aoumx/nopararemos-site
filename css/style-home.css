@@ -3,3 +3,13 @@ body {
   background-size: 2000px 1125px;
   background-repeat: repeat
 }
+
+.logo-palabra {
+  background-color: white;
+  width: 30%;
+  height: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
