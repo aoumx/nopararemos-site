@@ -77,8 +77,9 @@ width: 99.9%;
 
 .logo {
   background-color: white;
-  width: 10%;
-  height: 10%;
+  width: 100px;
+  margin-left: 50px;
+  margin-top: 50px;
 }
 
 /* FONTS */

@@ -17,6 +17,9 @@
   width: 140px !important;
   display: none !important;
 }
+.textura-1:hover{
+    background-image: url(../texturas-hover/textura-1.png);
+}
 .textura-2 {
   background-image: url(../texturas-redondas/textura-2.png);
   background-size: 110px 110px;
@@ -31,6 +34,9 @@
   height: 110px !important;
   width: 110px !important;
   display: none !important;
+}
+.textura-2:hover{
+    background-image: url(../texturas-hover/textura-2.png);
 }
 .textura-3 {
   background-image: url(../texturas-redondas/textura-3.png);
@@ -47,6 +53,9 @@
   width: 130px !important;
   display: none !important;
 }
+.textura-3:hover{
+    background-image: url(../texturas-hover/textura-3.png);
+}
 .textura-4 {
   background-image: url(../texturas-redondas/textura-4.png);
   background-size: 120px 120px;
@@ -61,6 +70,9 @@
   height: 120px !important;
   width: 120px !important;
   display: none !important;
+}
+.textura-4:hover{
+    background-image: url(../texturas-hover/textura-4.png);
 }
 .textura-5 {
   background-image: url(../texturas-redondas/textura-5.png);
@@ -77,6 +89,9 @@
   width: 95px !important;
   display: none !important;
 }
+.textura-5:hover{
+    background-image: url(../texturas-hover/textura-5.png);
+}
 .textura-6 {
   background-image: url(../texturas-redondas/textura-6.png);
   background-size: 110px 110px;
@@ -90,4 +105,7 @@
   height: 110px !important;
   width: 110px !important;
   display: none !important;
+}
+.textura-6:hover{
+    background-image: url(../texturas-hover/textura-6.png);
 }
