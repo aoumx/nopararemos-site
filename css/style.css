@@ -61,6 +61,20 @@ a, li, p {
 width: 99.9%;
 }
 
+/* HEIGHT SUPERVISION MUSICAL */
+.artemio {
+  height: 300px;
+}
+.niñas-bien {
+  height: 300px;
+}
+.chivas {
+  height: 330px;
+}
+.camila {
+  height: 300px;
+}
+
 /* FONTS */
 @font-face {
     font-family: 'oxfam_tstar_proheadline';
