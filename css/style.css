@@ -54,6 +54,7 @@ a, li, p {
 
 #li-height {
   line-height: 25px !important;
+  margin-bottom: 18px;
 }
 
 /* IMAGEN MAS CHICA */
@@ -63,16 +64,16 @@ width: 99.9%;
 
 /* HEIGHT SUPERVISION MUSICAL */
 .artemio {
-  height: 370px;
+  height: 490px;
 }
-/* .niñas-bien {
-  height: 300px;
-} */
+.niñas-bien {
+  height: 390px;
+}
 .chivas {
-  height: 330px;
+  height: 430px;
 }
 .camila {
-  height: 300px;
+  height: 350px;
 }
 
 .logo {

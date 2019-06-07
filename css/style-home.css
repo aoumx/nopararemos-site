@@ -46,6 +46,7 @@ a {
 
 .idiomas {
   display: flex;
+  justify-content: space-around;
   background-color: white;
   width: 27%;
   margin-left: auto;
@@ -57,7 +58,6 @@ a {
 .idiomas-link {
   text-decoration: none;
   color: black;
-  padding-left: 100px;
 }
 
 
