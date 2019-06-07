@@ -22,6 +22,10 @@ body {
   text-decoration: none;
   margin-bottom: 20px;
 }
+.mail-img {
+  width: 50px;
+  height: 50px;
+}
 
 .links:hover {
   text-decoration: none;
@@ -35,9 +39,27 @@ a {
   display: flex;
   flex-direction: column;
   width: 50px;
-  top: 100px;
-  right: 500px;
+  position: relative;
+  left: 1050px;
+  bottom: 250px
 }
+
+.idiomas {
+  display: flex;
+  background-color: white;
+  width: 27%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 40px;
+  margin-top: -230px;
+}
+
+.idiomas-link {
+  text-decoration: none;
+  color: black;
+  padding-left: 100px;
+}
+
 
 @font-face {
     font-family: 'Orator Std';
