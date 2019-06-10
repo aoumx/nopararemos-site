@@ -90,15 +90,14 @@ width: 99.9%;
          url('copia_de_tstar-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 @font-face {
     font-family: 'Orator Std';
-    src: url('fonts/OratorStd.eot');
-    src: url('fonts/OratorStd.eot?#iefix') format('embedded-opentype'),
-         url('fonts/OratorStd.woff2') format('woff2'),
-         url('fonts/OratorStd.woff') format('woff'),
-         url('fonts/OratorStd.ttf')  format('truetype'),
-         url('fonts/OratorStd.svg#Orator Std') format('svg');
+    src: url('../fonts/OratorStd.eot');
+    src: url('../fonts/OratorStd.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OratorStd.woff2') format('woff2'),
+         url('../fonts/OratorStd.woff') format('woff'),
+         url('../fonts/OratorStd.ttf')  format('truetype'),
+         url('../fonts/OratorStd.svg#Orator Std') format('svg');
 }

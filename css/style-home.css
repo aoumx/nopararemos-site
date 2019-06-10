@@ -14,23 +14,10 @@ body {
   margin-top: 200px;
   padding: 20px;
 }
-
-.links {
-  padding: 15px 15px;
-  background-color: black;
-  color: white;
-  text-decoration: none;
-  margin-bottom: 20px;
-}
 .mail-img {
   width: 50px;
   height: 50px;
 }
-
-.links:hover {
-  text-decoration: none;
-}
-
 a {
    font-family: 'Orator Std';
 }
@@ -38,10 +25,9 @@ a {
 .links-div {
   display: flex;
   flex-direction: column;
-  width: 50px;
   position: relative;
   left: 1050px;
-  bottom: 250px
+  bottom: 250px;
 }
 
 .idiomas {
@@ -54,7 +40,6 @@ a {
   padding: 10px 40px;
   margin-top: -230px;
 }
-
 .idiomas-link {
   text-decoration: none;
   color: black;
@@ -63,10 +48,10 @@ a {
 
 @font-face {
     font-family: 'Orator Std';
-    src: url('fonts/OratorStd.eot');
-    src: url('fonts/OratorStd.eot?#iefix') format('embedded-opentype'),
-         url('fonts/OratorStd.woff2') format('woff2'),
-         url('fonts/OratorStd.woff') format('woff'),
-         url('fonts/OratorStd.ttf')  format('truetype'),
-         url('fonts/OratorStd.svg#Orator Std') format('svg');
+    src: url('../fonts/OratorStd.eot');
+    src: url('../fonts/OratorStd.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/OratorStd.woff2') format('woff2'),
+         url('../fonts/OratorStd.woff') format('woff'),
+         url('../fonts/OratorStd.ttf')  format('truetype'),
+         url('../fonts/OratorStd.svg#Orator Std') format('svg');
 }
