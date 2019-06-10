@@ -1,0 +1,67 @@
+/* MEDIA QUERY INDEX */
+@media (max-width: 415px) {
+  .logos-redes {
+    margin: 10% auto;
+    float: none;
+  }
+}
+
+
+/* MEDIA QUERY HOME */
+@media (max-width: 415px) {
+  .logo {
+    margin: 20px 160px;
+  }
+  .Menu {
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+  .Menu li li.-hasSubmenu > a, .Menu:not(.-horizontal) > li.-hasSubmenu > a {
+    padding-right: 0px;
+    width: 410px;
+    text-align: center;
+  }
+  #acerca-de {
+    width: 100%;
+    top: 125px;
+    left: 0px;
+  }
+  .texto {
+    width: 100%;
+    margin-bottom: auto;
+  }
+  #texturas {
+    top: 100px;
+    left: 0px;
+  }
+  #textura-seis {
+    top: 294px;
+    left: -37px;
+    width: 409px;
+  }
+  #textura-seis > li.-hasSubmenu, #textura-seis > li > a {
+    padding: 0px;
+    width: 100% !important;
+}
+  #textura-descripcion-lvmh {
+    top: 26px;
+    left: 0;
+  }
+
+
+
+
+
+
+
+  #rrss {
+    top: 50px;
+    left: 0;
+  }
+  #contacto {
+    top: 25px;
+    left: 0;
+  }
+}
+

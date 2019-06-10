@@ -18,17 +18,25 @@ a {
 .content-wrap {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 150px;
+}
+.div-logo-np {
+  margin-bottom: 20px;
 }
 .logo-np {
-  padding: 50px;
+  padding: 10px;
   background-color: white;
-  width: 30%;
+  width: 40%;
+  margin: 0 auto;
+  display: block;
+
 }
 .logos-redes{
     display: block;
     text-align: center;
     width: 80px;
     margin: 0;
+    float: right;
 }
 .idiomas-np {
   background-color: white;
@@ -56,3 +64,5 @@ a {
          url('../fonts/OratorStd.ttf')  format('truetype'),
          url('../fonts/OratorStd.svg#Orator Std') format('svg');
 }
+
+
