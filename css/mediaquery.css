@@ -1,11 +1,13 @@
 /* MEDIA QUERY INDEX */
 @media (max-width: 415px) {
+  .content-wrap {
+    margin-top: 15%;
+  }
   .logos-redes {
     margin: 10% auto;
     float: none;
   }
 }
-
 
 /* MEDIA QUERY HOME */
 @media (max-width: 415px) {
@@ -18,8 +20,8 @@
     top: 0;
   }
   .Menu li li.-hasSubmenu > a, .Menu:not(.-horizontal) > li.-hasSubmenu > a {
-    padding: 0px;
     width: 100%;
+    padding: 0px;
     text-align: center;
   }
   #acerca-de {
@@ -31,6 +33,40 @@
     width: 100%;
     margin-bottom: auto;
   }
+  #proyectos {
+    top: 75px;
+    left: 0;
+    text-align: center;
+    width: 100%;
+  }
+  #proyectos > li.-hasSubmenu, #proyectos > li > a {
+    text-align: center;
+    width: 100% !important;
+    padding: 0px;
+}
+  #proyectos-produccion > li.-hasSubmenu, #proyectos-produccion > li > a {
+    text-align: center;
+    width: 100% !important;
+    padding: 0px;
+}
+  #proyectos-supervision > li.-hasSubmenu, #proyectos-supervision > li > a {
+    text-align: center;
+    width: 100% !important;
+    padding: 0px;
+}
+  #proyectos-produccion {
+    left: 0;
+    width: 100%;
+    top: 50px;
+  }
+  #proyectos-supervision {
+    left: 0;
+    width: 100%;
+    top: 28px;
+  }
+
+
+
   #texturas {
     top: 100px;
     left: 0px;
@@ -55,13 +91,18 @@
 
 
 
+
   #rrss {
     top: 50px;
     left: 0;
+    text-align: center;
+    padding: 0px;
   }
   #contacto {
     top: 25px;
     left: 0;
+    text-align: center;
+    padding: 0px;
   }
 }
 
