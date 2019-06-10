@@ -8,7 +8,7 @@ element
 .Menu {
     display: none;
     position: relative;
-    top: 200px;
+    top: 50px;
     left: 50px;   /* Para que no haga larga la pagina */
 }
     /* Three basic menu layouts */

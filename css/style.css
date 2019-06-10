@@ -32,7 +32,7 @@ a, li, p {
 }
 
 .circle {
-    border-radius: 50%;
+  border-radius: 50%;
 }
 
 .contact {
@@ -59,7 +59,7 @@ a, li, p {
 
 /* IMAGEN MAS CHICA */
 .img-chica {
-width: 99.9%;
+  width: 99.9%;
 }
 
 /* HEIGHT SUPERVISION MUSICAL */
