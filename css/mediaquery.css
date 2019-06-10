@@ -18,8 +18,8 @@
     top: 0;
   }
   .Menu li li.-hasSubmenu > a, .Menu:not(.-horizontal) > li.-hasSubmenu > a {
-    padding-right: 0px;
-    width: 410px;
+    padding: 0px;
+    width: 100%;
     text-align: center;
   }
   #acerca-de {
