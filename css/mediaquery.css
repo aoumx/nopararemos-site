@@ -6,6 +6,9 @@
   .logos-redes {
     margin: 10% auto;
     float: none;
+    width: 0px !important;
+    display: table;
+
   }
   .logo-size {
     width: 50px;
@@ -63,10 +66,65 @@
     width: 100%;
     top: 60px;
   }
+  #descripcion-cerveza {
+    top: 235px;
+    left: auto;
+  }
+  #descripcion-lvmh {
+    top: 210px;
+    left: auto;
+  }
+  #descripcion-azul {
+    top: 185px;
+    left: auto;
+  }
+  #descripcion-hellow {
+    top: 160px;
+    left: auto;
+  }
+  #descripcion-casa {
+    top: 135px;
+    left: auto;
+  }
+  #descripcion-mutek {
+    top: 110px;
+    left: auto;
+  }
+  #descripcion-doritos {
+    top: 85px;
+    left: auto;
+  }
+  #descripcion-lancome {
+    top: 60px;
+    left: auto;
+  }
+  #descripcion-jose {
+    top: 35px;
+    left: auto;
+  }
+
+
+
   #proyectos-supervision {
     left: 0;
     width: 100%;
     top: 35px;
+  }
+  #descripcion-artemio {
+    left: auto;
+    top: 110px;
+  }
+  #descripcion-niñas {
+    top: 85px;
+    left: auto;
+  }
+  #descripcion-chivas {
+    top: 60px;
+    left: auto;
+  }
+  #descripcion-camila {
+    top: 36px;
+    left: auto;
   }
 
 
