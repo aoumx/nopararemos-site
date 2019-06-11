@@ -7,12 +7,16 @@
     margin: 10% auto;
     float: none;
   }
+  .logo-size {
+    width: 50px;
+  }
 }
 
 /* MEDIA QUERY HOME */
 @media (max-width: 415px) {
   .logo {
-    margin: 20px 160px;
+    margin: 5% auto;
+    display: block;
   }
   .Menu {
     width: 100%;
@@ -26,7 +30,7 @@
   }
   #acerca-de {
     width: 100%;
-    top: 125px;
+    top: 135px;
     left: 0px;
   }
   .texto {
@@ -34,7 +38,7 @@
     margin-bottom: auto;
   }
   #proyectos {
-    top: 75px;
+    top: 85px;
     left: 0;
     text-align: center;
     width: 100%;
@@ -57,22 +61,22 @@
   #proyectos-produccion {
     left: 0;
     width: 100%;
-    top: 50px;
+    top: 60px;
   }
   #proyectos-supervision {
     left: 0;
     width: 100%;
-    top: 28px;
+    top: 35px;
   }
 
 
 
   #texturas {
-    top: 100px;
+    top: 110px;
     left: 0px;
   }
   #textura-seis {
-    top: 294px;
+    top: 304px;
     left: -37px;
     width: 409px;
   }
@@ -81,7 +85,7 @@
     width: 100% !important;
 }
   #textura-descripcion-lvmh {
-    top: 26px;
+    top: 36px;
     left: 0;
   }
 
@@ -93,16 +97,18 @@
 
 
   #rrss {
-    top: 50px;
+    top: 60px;
     left: 0;
     text-align: center;
     padding: 0px;
+    width: 100%;
   }
   #contacto {
-    top: 25px;
+    top: 35px;
     left: 0;
     text-align: center;
     padding: 0px;
+    width: 100%;
   }
 }
 
