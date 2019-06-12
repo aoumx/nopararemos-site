@@ -37,6 +37,9 @@ a {
     width: 80px;
     margin: 0;
     float: right;
+    top: -350px;
+    right: 160px;
+    position: relative;
 }
 .idiomas-np {
   background-color: white;
