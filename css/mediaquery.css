@@ -48,6 +48,7 @@
     text-align: center;
     width: 100%;
   }
+
   /* PROYECTOS MENU TEXT CENTER */
   #proyectos > li.-hasSubmenu, #proyectos > li > a {
     text-align: center;
@@ -64,6 +65,7 @@
     width: 100% !important;
     padding: 0px;
   }
+
   /* PROYECTOS PRODUCCION */
   #proyectos-produccion {
     left: 0;
@@ -106,6 +108,7 @@
     top: 35px;
     left: auto;
   }
+
   /* PROYECTOS DE SUPERVISION */
   #proyectos-supervision {
     left: 0;
@@ -125,30 +128,134 @@
   #descripcion-chivas {
     top: 60px;
     left: auto;
+    width: 100%;
   }
   #descripcion-camila {
     top: 36px;
     left: auto;
     width: 100%;
   }
+
   /* TEXTURAS */
   #texturas {
     top: 110px;
-    left: 0px;
+    left: auto;
+  }
+  .textura-1 {
+    width: 100% !important;
+    position: absolute;
+    top: 107px;
+    left: auto;
+    background-position-x: 93%;
+    left: 0 !important;
+  }
+  #textura-dos {
+    top: 207px;
+    left: auto;
+    width: 100%;
+  }
+  .textura-2 {
+    width: 100% !important;
+    position: absolute;
+    top: 35px;
+    background-position-x: 54%;
+    left: 0 !important;
+  }
+  #textura-dos {
+    top: 139px;
+    left: auto;
+    width: 100%;
+  }
+  .textura-3 {
+    width: 100% !important;
+    position: absolute;
+    top: -217px;
+    background-position-x: 59%;
+    left: 0 !important;
+  }
+  #textura-tres {
+      top: 281px;
+      left: auto;
+      width: 100%;
+  }
+  .textura-4 {
+    width: 100% !important;
+    position: absolute;
+    top: -285px;
+    background-position-x: 30%;
+    left: 0 !important;
+  }
+  #textura-cuatro {
+    top: 219px;
+    left: auto;
+    width: 100%;
+  }
+  .textura-5 {
+    width: 100% !important;
+    position: absolute;
+    top: -311px;
+    background-position-x: 14%;
+    left: 0 !important;
+  }
+  #textura-cinco {
+    top: 125px;
+    left: auto;
+    width: 100%;
+  }
+  .textura-6 {
+    width: 100% !important;
+    position: absolute;
+    top: -585px;
+    background-position-x: 10%;
+    left: 0 !important;
   }
   #textura-seis {
     top: 304px;
-    left: -37px;
-    width: 409px;
+    left: auto;
+    width: 100%;
+  }
+
+  /* TEXTURAS CENTRAR Y SACAR PADDING */
+  #textura-uno > li.-hasSubmenu, #textura-uno > li > a {
+    padding: 0px;
+    width: 100% !important;
+  }
+  #textura-dos > li.-hasSubmenu, #textura-dos > li > a {
+    padding: 0px;
+    width: 100% !important;
+  }
+  #textura-tres > li.-hasSubmenu, #textura-tres > li > a {
+    padding: 0px;
+    width: 100% !important;
+  }
+  #textura-cuatro > li.-hasSubmenu, #textura-cuatro > li > a {
+    padding: 0px;
+    width: 100% !important;
+  }
+  #textura-cinco > li.-hasSubmenu, #textura-cinco > li > a {
+    padding: 0px;
+    width: 100% !important;
   }
   #textura-seis > li.-hasSubmenu, #textura-seis > li > a {
     padding: 0px;
     width: 100% !important;
   }
+
+  /* TEXTURA DESCRIPCION */
+  #textura-descripcion-hellow {
+    top: 35px;
+    left: auto;
+  }
   #textura-descripcion-lvmh {
     top: 36px;
     left: 0;
+    width: 100%;
   }
+  #textura-descripcion-casa {
+    top: 35px;
+    left: auto;
+  }
+
   /* REDES SOCIALES */
   #rrss {
     top: 60px;
@@ -157,6 +264,7 @@
     padding: 0px;
     width: 100%;
   }
+
   /* CONTACTO */
   #contacto {
     top: 35px;
