@@ -4,11 +4,11 @@
     margin-top: 15%;
   }
   .logos-redes {
-    margin: 10% auto;
-    float: none;
-    width: 0px !important;
+    margin: 30% auto;
     display: table;
-
+    text-align: center;
+    flex-direction: row;
+    display: flex;
   }
   .logo-size {
     width: 50px;
@@ -40,27 +40,31 @@
     width: 100%;
     margin-bottom: auto;
   }
+
+  /* PROYECTOS */
   #proyectos {
     top: 85px;
     left: 0;
     text-align: center;
     width: 100%;
   }
+  /* PROYECTOS MENU TEXT CENTER */
   #proyectos > li.-hasSubmenu, #proyectos > li > a {
     text-align: center;
     width: 100% !important;
     padding: 0px;
-}
+  }
   #proyectos-produccion > li.-hasSubmenu, #proyectos-produccion > li > a {
     text-align: center;
     width: 100% !important;
     padding: 0px;
-}
+  }
   #proyectos-supervision > li.-hasSubmenu, #proyectos-supervision > li > a {
     text-align: center;
     width: 100% !important;
     padding: 0px;
-}
+  }
+  /* PROYECTOS PRODUCCION */
   #proyectos-produccion {
     left: 0;
     width: 100%;
@@ -102,21 +106,21 @@
     top: 35px;
     left: auto;
   }
-
-
-
+  /* PROYECTOS DE SUPERVISION */
   #proyectos-supervision {
     left: 0;
     width: 100%;
     top: 35px;
   }
   #descripcion-artemio {
-    left: auto;
     top: 110px;
+    left: auto;
+    width: 100%;
   }
   #descripcion-niñas {
     top: 85px;
     left: auto;
+    width: 100%;
   }
   #descripcion-chivas {
     top: 60px;
@@ -125,10 +129,9 @@
   #descripcion-camila {
     top: 36px;
     left: auto;
+    width: 100%;
   }
-
-
-
+  /* TEXTURAS */
   #texturas {
     top: 110px;
     left: 0px;
@@ -141,19 +144,12 @@
   #textura-seis > li.-hasSubmenu, #textura-seis > li > a {
     padding: 0px;
     width: 100% !important;
-}
+  }
   #textura-descripcion-lvmh {
     top: 36px;
     left: 0;
   }
-
-
-
-
-
-
-
-
+  /* REDES SOCIALES */
   #rrss {
     top: 60px;
     left: 0;
@@ -161,6 +157,7 @@
     padding: 0px;
     width: 100%;
   }
+  /* CONTACTO */
   #contacto {
     top: 35px;
     left: 0;

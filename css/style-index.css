@@ -32,14 +32,13 @@ a {
 
 }
 .logos-redes{
-    display: block;
     text-align: center;
-    width: 80px;
-    margin: 0;
-    float: right;
-    top: -350px;
-    right: 160px;
-    position: relative;
+    margin: 0 auto;
+    flex-direction: column;
+    display: flex;
+    position: absolute;
+    top: 200px;
+    right: 100px;
 }
 .idiomas-np {
   background-color: white;
