@@ -3,13 +3,13 @@
   .content-wrap {
     margin-top: 15%;
   }
-  .logos-redes {
-    margin: 30% auto;
-    display: table;
+.logos-redes {
     text-align: center;
-    flex-direction: row;
-    display: flex;
-  }
+    margin: 0% auto;
+    background-color: white;
+    padding: 10px;
+    width: 40%;
+}
   .logo-size {
     width: 50px;
   }
@@ -142,12 +142,16 @@
     left: auto;
   }
   .textura-1 {
+    background-image: url(../texturas-mobile/vigas-mobile.jpg);
+    background-image: url(../texturas-mobile/vigas-mobile.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 30% !important;
     width: 100% !important;
     position: absolute;
-    top: 107px;
-    left: auto;
-    background-position-x: 93%;
-    left: 0 !important;
+    top: 0px;
+    left: 0px;
+    background-position-y: -56px;
   }
   #textura-dos {
     top: 207px;
@@ -155,11 +159,15 @@
     width: 100%;
   }
   .textura-2 {
+    background-image: url(../texturas-mobile/andamios-mobile.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 30% !important;
     width: 100% !important;
     position: absolute;
-    top: 35px;
-    background-position-x: 54%;
-    left: 0 !important;
+    top: 100px;
+    left: 0px;
+    background-position-y: -56px;
   }
   #textura-dos {
     top: 139px;
@@ -167,11 +175,12 @@
     width: 100%;
   }
   .textura-3 {
-    width: 100% !important;
+    background-image: url(../texturas-mobile/ladrillos-mobile.jpg);
+    /* width: 100% !important;
     position: absolute;
     top: -217px;
     background-position-x: 59%;
-    left: 0 !important;
+    left: 0 !important; */
   }
   #textura-tres {
       top: 281px;
@@ -179,11 +188,12 @@
       width: 100%;
   }
   .textura-4 {
-    width: 100% !important;
+    background-image: url(../texturas-mobile/madera-mobile.jpg);
+    /* width: 100% !important;
     position: absolute;
     top: -285px;
     background-position-x: 30%;
-    left: 0 !important;
+    left: 0 !important; */
   }
   #textura-cuatro {
     top: 219px;
@@ -191,11 +201,12 @@
     width: 100%;
   }
   .textura-5 {
-    width: 100% !important;
+    background-image: url(../texturas-mobile/concreto-mobile.jpg);
+    /* width: 100% !important;
     position: absolute;
     top: -311px;
     background-position-x: 14%;
-    left: 0 !important;
+    left: 0 !important; */
   }
   #textura-cinco {
     top: 125px;
@@ -203,11 +214,12 @@
     width: 100%;
   }
   .textura-6 {
-    width: 100% !important;
+    background-image: url(../texturas-mobile/sonido-mobile.jpg);
+    /* width: 100% !important;
     position: absolute;
     top: -585px;
     background-position-x: 10%;
-    left: 0 !important;
+    left: 0 !important; */
   }
   #textura-seis {
     top: 304px;
