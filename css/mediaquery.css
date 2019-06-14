@@ -1,17 +1,24 @@
 /* MEDIA QUERY INDEX */
 @media (max-width: 415px) {
   .content-wrap {
-    margin-top: 15%;
+    margin-top: 50%;
+  }
+  .logo-np {
+    width: 50%;
+  }
+  .idiomas-np {
+    width: 50%;
   }
 .logos-redes {
     text-align: center;
     margin: 0% auto;
     background-color: white;
     padding: 10px;
-    width: 40%;
+    width: 50%;
 }
   .logo-size {
-    width: 50px;
+    width: 45px;
+    padding: 0px 15px;
   }
 }
 
