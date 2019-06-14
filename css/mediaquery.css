@@ -321,11 +321,23 @@
     background-image: url(../texturas-mobile-3/sonido.jpg);
   }
 
+  .chivas {
+  height: 420px;
+  }
+  .camila {
+    height: 380px;
+  }
 }
 
 @media only screen and (min-width: 416px) {
   #li-height {
-    line-height: 40px !important;
+    line-height: 25px !important;
+    margin-bottom: 0px;
+  }
+}
+@media only screen and (min-width: 416px) {
+  #li-height-eng {
+    line-height: 20px !important;
     margin-bottom: 0px;
   }
 }
