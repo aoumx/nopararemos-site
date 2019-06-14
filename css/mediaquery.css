@@ -82,38 +82,47 @@
   #descripcion-cerveza {
     top: 235px;
     left: auto;
+    text-align: left;
   }
   #descripcion-lvmh {
     top: 210px;
     left: auto;
+    text-align: left;
   }
   #descripcion-azul {
     top: 185px;
     left: auto;
+    text-align: left;
   }
   #descripcion-hellow {
     top: 160px;
     left: auto;
+    text-align: left;
   }
   #descripcion-casa {
     top: 135px;
     left: auto;
+    text-align: left;
   }
   #descripcion-mutek {
     top: 110px;
     left: auto;
+    text-align: left;
   }
   #descripcion-doritos {
     top: 85px;
     left: auto;
+    text-align: left;
   }
   #descripcion-lancome {
     top: 60px;
     left: auto;
+    text-align: left;
   }
   #descripcion-jose {
     top: 35px;
     left: auto;
+    text-align: left;
   }
 
   /* PROYECTOS DE SUPERVISION */
@@ -126,21 +135,25 @@
     top: 110px;
     left: auto;
     width: 100%;
+    text-align: left;
   }
   #descripcion-niñas {
     top: 85px;
     left: auto;
     width: 100%;
+    text-align: left;
   }
   #descripcion-chivas {
     top: 60px;
     left: auto;
     width: 100%;
+    text-align: left;
   }
   #descripcion-camila {
     top: 36px;
     left: auto;
     width: 100%;
+    text-align: left;
   }
 
   /* TEXTURAS */
@@ -151,23 +164,15 @@
   .textura-1, .textura-2, .textura-3, .textura-4, .textura-5, .textura-6 {
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 16% !important;
+    height: 17% !important;
     width: 100% !important;
     position: absolute;
     top: 0px;
     left: 0px;
-    background-position-y: -20px;
+    background-position-y: 0px;
   }
   .textura-1 {
-    background-image: url(../texturas-mobile-2/vigas-mobile.jpg);
-    /* background-size: 100%;
-    background-repeat: no-repeat;
-    height: 28% !important;
-    width: 100% !important;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    background-position-y: 0px; */
+    background-image: url(../texturas-mobile-3/vigas.jpg);
   }
   #textura-uno {
     top: 314px;
@@ -175,82 +180,42 @@
     width: 100%;
   }
   .textura-2 {
-    background-image: url(../texturas-mobile-2/andamios-mobile.jpg);
-    /* background-size: 100%;
-    background-repeat: no-repeat;
-    height: 28% !important;
-    width: 100% !important;
-    position: absolute;
-    top: -6px;
-    left: 0px;
-    background-position-y: 0; */
+    background-image: url(../texturas-mobile-3/andamios.jpg);
   }
   #textura-dos {
-    top: 229px;
+    top: 263px;
     left: auto;
     width: 100%;
   }
   .textura-3 {
-    background-image: url(../texturas-mobile-2/ladrillo-mobile.jpg);
-    /* background-size: 100%;
-    background-repeat: no-repeat;
-    height: 28% !important;
-    width: 100% !important;
-    position: absolute;
-    top: -12px;
-    left: 0px;
-    background-position-y: 0; */
+    background-image: url(../texturas-mobile-3/ladrillo.jpg);
   }
   #textura-tres {
-      top: 281px;
+      top: 211px;
       left: auto;
       width: 100%;
   }
   .textura-4 {
-    background-image: url(../texturas-mobile-2/madera-mobile.jpg);
-    /* background-size: 100%;
-    background-repeat: no-repeat;
-    height: 28% !important;
-    width: 100% !important;
-    position: absolute;
-    top: -12px;
-    left: 0px;
-    background-position-y: 0; */
+    background-image: url(../texturas-mobile-3/madera.jpg);
   }
   #textura-cuatro {
-    top: 219px;
+    top: 159px;
     left: auto;
     width: 100%;
   }
   .textura-5 {
-    background-image: url(../texturas-mobile-2/concreto-mobile.jpg);
-    /* background-size: 100%;
-    background-repeat: no-repeat;
-    height: 28% !important;
-    width: 100% !important;
-    position: absolute;
-    top: -12px;
-    left: 0px;
-    background-position-y: 0; */
+    background-image: url(../texturas-mobile-3/concreto.jpg);
   }
   #textura-cinco {
-    top: 125px;
+    top: 108px;
     left: auto;
     width: 100%;
   }
   .textura-6 {
-    background-image: url(../texturas-mobile-2/sonido-mobile.jpg);
-    /* background-size: 100%;
-    background-repeat: no-repeat;
-    height: 28% !important;
-    width: 100% !important;
-    position: absolute;
-    top: -12px;
-    left: 0px;
-    background-position-y: 0; */
+    background-image: url(../texturas-mobile-3/sonido.jpg);
   }
   #textura-seis {
-    top: 304px;
+    top: 56px;
     left: auto;
     width: 100%;
   }
@@ -311,6 +276,14 @@
     top: 35px;
     left: auto;
   }
+  #textura-descripcion-azul {
+    top: 60px;
+    left: auto;
+  }
+  #textura-descripcion-lancome {
+    top: 35px;
+    left: auto;
+  }
   /* REDES SOCIALES */
   #rrss {
     top: 60px;
@@ -330,22 +303,30 @@
   }
   /* TEXTURA HOVER */
   .textura-1:hover {
-    background-image: url(../texturas-mobile-2/vigas-mobile.jpg);
+    background-image: url(../texturas-mobile-3/vigas.jpg);
   }
   .textura-2:hover {
-    background-image: url(../texturas-mobile-2/andamios-mobile.jpg);
+    background-image: url(../texturas-mobile-3/andamios.jpg);
   }
   .textura-3:hover {
-    background-image: url(../texturas-mobile-2/ladrillo-mobile.jpg);
+    background-image: url(../texturas-mobile-3/ladrillo.jpg);
   }
   .textura-4:hover {
-    background-image: url(../texturas-mobile-2/madera-mobile.jpg);
+    background-image: url(../texturas-mobile-3/madera.jpg);
   }
   .textura-5:hover {
-    background-image: url(../texturas-mobile-2/concreto-mobile.jpg);
+    background-image: url(../texturas-mobile-3/concreto.jpg);
   }
   .textura-6:hover {
-    background-image: url(../texturas-mobile-2/sonido-mobile.jpg);
+    background-image: url(../texturas-mobile-3/sonido.jpg);
+  }
+
+}
+
+@media only screen and (min-width: 416px) {
+  #li-height {
+    line-height: 40px !important;
+    margin-bottom: 0px;
   }
 }
 
