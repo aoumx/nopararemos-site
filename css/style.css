@@ -87,6 +87,19 @@ a, li, p {
   margin-top: 50px;
 }
 
+.fotos {
+  background-color: #FFFC66;
+  color: black;
+  padding: 5px;
+  margin-bottom: 0px;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
 /* FONTS */
 @font-face {
     font-family: 'oxfam_tstar_proheadline';

@@ -3,7 +3,7 @@ $(document).ready(() => {
     $('.menu-button').toggleClass();
   })
 
-  $('.textura-1').on('click', () => {
+  $('textura-1').on('click', () => {
     $('body').css("background-image", "url(textures/texturas_-03.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
@@ -25,6 +25,11 @@ $(document).ready(() => {
   })
   $('.textura-6').on('click', () => {
     $('body').css("background-image", "url(textures/texturas_-06.png)");
+    $('body').css("background-size", 2000 + "px " + 1125 + "px");
+  })
+  $('.menu-principal').on('click', () => {
+    $('body').css("background-image", "url(textures/texturas_-01.png)");
+    console.log('stop');
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
 
