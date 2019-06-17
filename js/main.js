@@ -3,8 +3,8 @@ $(document).ready(() => {
     $('.menu-button').toggleClass();
   })
 
-  $('textura-1').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-03.png)");
+  $('.textura-1').on('click', () => {
+    $('body').css("background-image", "url(textures/texturas_-03.png");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.textura-2').on('click', () => {
@@ -29,7 +29,6 @@ $(document).ready(() => {
   })
   $('.menu-principal').on('click', () => {
     $('body').css("background-image", "url(textures/texturas_-01.png)");
-    console.log('stop');
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
 
