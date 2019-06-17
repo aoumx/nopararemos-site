@@ -327,12 +327,20 @@
   .camila {
     height: 380px;
   }
+
+  #li-height-mob {
+    line-height: 20px !important;
+  }
+  #li-height-40 {
+    line-height: 25px !important;
+    margin-bottom: 10px;
+  }
 }
 
 @media only screen and (min-width: 416px) {
   #li-height {
     line-height: 25px !important;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
   }
 }
 @media only screen and (min-width: 416px) {

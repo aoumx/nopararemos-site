@@ -56,6 +56,10 @@ a, li, p {
   line-height: 25px !important;
   margin-bottom: 18px;
 }
+#li-height-40 {
+    line-height: 40px !important;
+  margin-bottom: 0px;
+}
 
 /* IMAGEN MAS CHICA */
 .img-chica {
@@ -70,7 +74,7 @@ a, li, p {
   height: 390px;
 }
 .chivas {
-  height: 370px;
+  height: 410px;
 }
 .camila {
   height: 350px;
