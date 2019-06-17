@@ -339,6 +339,10 @@
     line-height: 25px !important;
     margin-bottom: 20px;
   }
+    #li-height-some {
+    line-height: 25px !important;
+    margin-bottom: 20px;
+  }
 }
 
 @media only screen and (min-width: 416px) {
@@ -351,6 +355,10 @@
   #li-height-eng {
     line-height: 20px !important;
     margin-bottom: 10px;
+  }
+  .li-height-some {
+    line-height: 40px !important;
+    margin-bottom: 0px;
   }
 }
 
