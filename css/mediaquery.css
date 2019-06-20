@@ -325,7 +325,13 @@
   height: 430px;
   }
   .camila {
-    height: 380px;
+    height: 350px;
+  }
+  .artemio {
+    height: 430px;
+  }
+  .niñas-bien {
+    height: 330px;
   }
 
   #li-height-mob {
@@ -339,9 +345,24 @@
     line-height: 25px !important;
     margin-bottom: 20px;
   }
+    #li-height-eng-2 {
+    line-height: 35px !important;
+    margin-bottom: 0px;
+  }
     #li-height-some {
     line-height: 25px !important;
     margin-bottom: 20px;
+  }
+    #li-height-some-2 {
+    line-height: 35px !important;
+    margin-bottom: 0px;
+  }
+    #li-height-eng-20 {
+    line-height: 20px !important;
+  }
+    #li-height-ninas {
+    line-height: 35px !important;
+    margin-bottom: 0px;
   }
 }
 
@@ -350,14 +371,34 @@
     line-height: 25px !important;
     margin-bottom: 10px;
   }
+  #li-height-ninas {
+    line-height: 25px !important;
+    margin-bottom: 10px;
+  }
 }
 @media only screen and (min-width: 416px) {
+  .li-height-some-2 {
+    line-height: 20px !important;
+    margin-bottom: 10px;
+  }
   #li-height-eng {
     line-height: 20px !important;
     margin-bottom: 10px;
   }
+  #li-height-eng-2 {
+    line-height: 20px !important;
+    margin-bottom: 10px;
+  }
+  #li-height-eng-20 {
+    line-height: 20px !important;
+    margin-bottom: 20px;
+  }
   .li-height-some {
     line-height: 40px !important;
+    margin-bottom: 0px;
+  }
+  .li-height-chivas {
+    line-height: 35px !important;
     margin-bottom: 0px;
   }
 }
