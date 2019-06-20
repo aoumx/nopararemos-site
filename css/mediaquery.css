@@ -161,7 +161,7 @@
     top: 110px;
     left: auto;
   }
-  .textura-1, .textura-2, .textura-3, .textura-4, .textura-5, .textura-6 {
+  .textura-1, .textura-2, .textura-3, .textura-4, .textura-5, .textura-6, .tex-eng-1, .tex-eng-2, .tex-eng-3, .tex-eng-4, .tex-eng-5, .tex-eng-6 {
     background-size: 100%;
     background-repeat: no-repeat;
     height: 17% !important;
@@ -170,6 +170,9 @@
     top: 0px;
     left: 0px;
     background-position-y: 0px;
+  }
+  .tex-eng-1 {
+    background-image: url(../texturas-mob-eng/vigas.jpg);
   }
   .textura-1 {
     background-image: url(../texturas-mobile-3/vigas.jpg);
