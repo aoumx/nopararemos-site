@@ -70,13 +70,25 @@ a, li, p {
 .artemio {
   height: 490px;
 }
+.artemio-eng {
+  height: 480px;
+}
 .niñas-bien {
   height: 390px;
+}
+.niñas-bien-eng {
+  height: 350px;
 }
 .chivas {
   height: 410px;
 }
+.chivas-eng {
+  height: 390px;
+}
 .camila {
+  height: 350px;
+}
+.camila-eng {
   height: 350px;
 }
 
