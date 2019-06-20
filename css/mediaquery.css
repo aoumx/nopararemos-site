@@ -321,6 +321,7 @@
     background-image: url(../texturas-mobile-3/sonido.jpg);
   }
 
+  /* SUPERVISION MUSICAL */
   .chivas {
   height: 430px;
   }
@@ -334,6 +335,7 @@
     height: 330px;
   }
 
+  /* DATOS LINE HEIGHTS EN DESCRIPCION */
   #li-height-mob {
     line-height: 20px !important;
   }
