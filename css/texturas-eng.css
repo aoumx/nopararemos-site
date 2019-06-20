@@ -1,0 +1,111 @@
+#texturas {
+  width: 340px;
+  height: 310px;
+}
+.texture-1 {
+  background-image: url(../texturas-redondas/textura-1.png);
+  background-size: 140px 140px;
+  background-repeat: no-repeat;
+  height: 140px !important;
+  width: 140px !important;
+  position: absolute;
+  top: 107px;
+  left: 194px;
+}
+.texture-1 > a {
+  height: 140px !important;
+  width: 140px !important;
+  display: none !important;
+}
+.texture-1:hover{
+    background-image: url(../texturas-desk-eng/vigas.jpg);
+}
+.texture-2 {
+  background-image: url(../texturas-redondas/textura-2.png);
+  background-size: 110px 110px;
+  background-repeat: no-repeat;
+  height: 110px !important;
+  width: 110px !important;
+  position: absolute;
+  top: 35px;
+  left: 111px;
+}
+.texture-2 > a {
+  height: 110px !important;
+  width: 110px !important;
+  display: none !important;
+}
+.texture-2:hover{
+    background-image: url(../texturas-desk-eng/andamios.jpg);
+}
+.texture-3 {
+  background-image: url(../texturas-redondas/textura-3.png);
+  background-size: 130px 130px;
+  background-repeat: no-repeat;
+  height: 130px !important;
+  width: 130px !important;
+  position: absolute;
+  top: -217px;
+  left: 113px;
+}
+.texture-3 > a {
+  height: 130px !important;
+  width: 130px !important;
+  display: none !important;
+}
+.texture-3:hover{
+    background-image: url(../texturas-desk-eng/ladrillos.jpg);
+}
+.texture-4 {
+  background-image: url(../texturas-redondas/textura-4.png);
+  background-size: 120px 120px;
+  background-repeat: no-repeat;
+  height: 120px !important;
+  width: 120px !important;
+  position: absolute;
+  top: -285px;
+  left: 49px;
+}
+.texture-4 > a {
+  height: 120px !important;
+  width: 120px !important;
+  display: none !important;
+}
+.texture-4:hover{
+    background-image: url(../texturas-desk-eng/madera.jpg);
+}
+.texture-5 {
+  background-image: url(../texturas-redondas/textura-5.png);
+  background-size: 95px 95px;
+  background-repeat: no-repeat;
+  height: 95px !important;
+  width: 95px !important;
+  position: absolute;
+  top: -311px;
+  left: 14px;
+}
+.texture-5 > a {
+  height: 95px !important;
+  width: 95px !important;
+  display: none !important;
+}
+.texture-5:hover{
+    background-image: url(../texturas-desk-eng/concreto.jpg);
+}
+.texture-6 {
+  background-image: url(../texturas-redondas/textura-6.png);
+  background-size: 110px 110px;
+  background-repeat: no-repeat;
+  height: 110px !important;
+  width: 110px !important;
+  position: absolute;
+  top: -585px;
+  left: 34px;
+}.texture-6 > a {
+  height: 110px !important;
+  width: 110px !important;
+  display: none !important;
+}
+.texture-6:hover{
+    background-image: url(../texturas-desk-eng/sonido.jpg);
+}
