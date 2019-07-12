@@ -41,6 +41,11 @@
 }
 /* DESCRIPCION MADERA
 ------------------------------------- */
+#descripcion-azul-madera {
+    top: -53px;
+    left: 369px;
+    margin-bottom: 20px;
+}
 #descripcion-casa-madera {
     top: -78px;
     left: 369px;
@@ -216,4 +221,12 @@
     left: 369px;
     margin-bottom: 20px;
 }
+/* DESCRIPCION LAMINA
+---------------------------------------- */
+#descripcion-cerveza-lamina {
+    top: -3px;
+    left: 369px;
+    margin-bottom: 20px;
+}
+
 

@@ -1,5 +1,253 @@
 @media (max-width: 415px) {
-/* PROYECTOS PRODUCCION */
+/* --------------------------- TEXTURAS MOBILE PROYECTOS ------------------------ */
+/* -------------------------------- CARPA
+--------------------------------------- */
+  #descripcion-hellow-carpa {
+    top: 35px;
+    left: auto;
+    text-align: left;
+  }
+/* ----------------------------  ANDAMIOS
+--------------------------------------- */
+ #descripcion-cerveza-andamios {
+    top: 110px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-mutek-andamios {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-doritos-andamios {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-jose-andamios {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/* -----------------------------  LADRILLOS
+--------------------------------------- */
+ #descripcion-azul-ladrillos {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-casa-ladrillos {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lancome-ladrillos {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/*------------------------------- MADERA
+--------------------------------------- */
+ #descripcion-cerveza-madera {
+    top: 235px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lvmh-madera {
+    top: 210px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-azul-madera {
+    top: 185px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-casa-madera {
+    top: 160px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-mutek-madera {
+    top: 135px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-doritos-madera {
+    top: 110px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lancome-madera {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-barra-moet-madera {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-moet-madera {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/*  ---------------------- CONCRETO
+--------------------------------------- */
+ #descripcion-azul-concreto {
+    top: 135px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-casa-concreto {
+    top: 110px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-doritos-concreto {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lancome-concreto {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-jose-concreto {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/* ------------------------- LAMINA
+--------------------------------------- */
+ #descripcion-cerveza-lamina {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/* ------------------------- ESPEJO
+--------------------------------------- */
+ #descripcion-lvmh-espejo {
+    top: 135px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-azul-espejo {
+    top: 110px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-casa-espejo {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lancome-espejo {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-barra-moet-espejo {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/* ------------------------- COLOR
+--------------------------------------- */
+ #descripcion-azul-color {
+    top: 185px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-hellow-color {
+    top: 160px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-casa-color {
+    top: 135px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-mutek-color {
+    top: 110px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-doritos-color {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lancome-color {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-moet-color {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/* ------------------------- LUZ
+--------------------------------------- */
+ #descripcion-azul-luz {
+    top: 185px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-hellow-luz {
+    top: 160px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-mutek-luz {
+    top: 135px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-doritos-luz {
+    top: 110px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lancome-luz {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-jose-luz {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-moet-luz {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+/* ------------------------- TABLAROCA
+--------------------------------------- */
+ #descripcion-azul-tabla {
+    top: 85px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-lancome-tabla {
+    top: 60px;
+    left: auto;
+    text-align: left;
+}
+ #descripcion-jose-tabla {
+    top: 35px;
+    left: auto;
+    text-align: left;
+}
+
+/* PROYECTOS PRODUCCION
+--------------------------------------*/
   #proyectos-produccion {
     left: 0;
     width: 100%;
