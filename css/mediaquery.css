@@ -78,6 +78,7 @@
   #texturas {
     top: 110px;
     left: auto;
+    margin-bottom: 10px;
   }
   .textura-1, .textura-2, .textura-3, .textura-4, .textura-5, .textura-6, .textura-7, .textura-8, .textura-9, .textura-10, .texture-1, .texture-2, .texture-3, .texture-4, .texture-5, .texture-6, .texture-7, .texture-8, .texture-9, .texture-10 {
     background-size: 100%;
@@ -99,6 +100,7 @@
     top: 454px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-2 {
     background-image: url(../texturas-mob-eng/andamios.jpg);
@@ -110,6 +112,7 @@
     top: 410px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-3 {
     background-image: url(../texturas-mob-eng/ladrillos.jpg);
@@ -121,6 +124,7 @@
       top: 366px;
       left: auto;
       width: 100%;
+      margin-bottom: 10px;
   }
   .texture-4 {
     background-image: url(../texturas-mob-eng/wood.jpg);
@@ -132,6 +136,7 @@
     top: 321px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-5 {
     background-image: url(../texturas-mob-eng/concreto.jpg);
@@ -143,6 +148,7 @@
     top: 277px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-6 {
     background-image: url(../texturas-mob-eng/texture-11);
@@ -154,6 +160,7 @@
     top: 232px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-7 {
     background-image: url(../texturas-mob-eng/texture-7);
@@ -165,6 +172,7 @@
     top: 188px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-8 {
     background-image: url(../texturas-mob-eng/texture-8);
@@ -176,6 +184,7 @@
     top: 144px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-9 {
     background-image: url(../texturas-mob-eng/texture-9);
@@ -187,6 +196,7 @@
     top: 99px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
   .texture-10 {
     background-image: url(../texturas-mob-eng/texture-10);
@@ -198,6 +208,7 @@
     top: 55px;
     left: auto;
     width: 100%;
+    margin-bottom: 10px;
   }
 
   /* TEXTURAS CENTRAR Y SACAR PADDING */
