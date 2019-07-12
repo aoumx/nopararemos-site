@@ -110,6 +110,11 @@
     left: 369px;
     margin-bottom: 20px;
 }
+#descripcion-lancome-espejo {
+    top: -78px;
+    left: 369px;
+    margin-bottom: 20px;
+}
 #descripcion-barra-moet-espejo {
     top: -103px;
     left: 369px;
@@ -119,6 +124,11 @@
 ---------------------------------------- */
 #descripcion-azul-color {
     top: -3px;
+    left: 369px;
+    margin-bottom: 20px;
+}
+#descripcion-casa-color {
+    top: -53px;
     left: 369px;
     margin-bottom: 20px;
 }
@@ -149,6 +159,16 @@
 }
 /* DESCRIPCION LUZ
 ---------------------------------------- */
+#descripcion-azul-luz {
+    top: -3px;
+    left: 369px;
+    margin-bottom: 20px;
+}
+#descripcion-hellow-luz {
+    top: -28px;
+    left: 369px;
+    margin-bottom: 20px;
+}
 #descripcion-mutek-luz {
     top: -53px;
     left: 369px;
@@ -169,8 +189,18 @@
     left: 369px;
     margin-bottom: 20px;
 }
+#descripcion-moet-luz {
+    top: -153px;
+    left: 369px;
+    margin-bottom: 20px;
+}
 /* DESCRIPCION TABLAROCA
 ---------------------------------------- */
+#descripcion-azul-tabla {
+    top: -3px;
+    left: 369px;
+    margin-bottom: 20px;
+}
 #descripcion-lancome-tabla {
     top: -28px;
     left: 369px;
