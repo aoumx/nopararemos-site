@@ -171,7 +171,7 @@
     top: 110px;
     left: auto;
   }
-  .textura-1, .textura-2, .textura-3, .textura-4, .textura-5, .textura-6, .texture-1, .texture-2, .texture-3, .texture-4, .texture-5, .texture-6 {
+  .textura-1, .textura-2, .textura-3, .textura-4, .textura-5, .textura-6, .textura-7, .textura-8, .textura-9, .textura-10, .texture-1, .texture-2, .texture-3, .texture-4, .texture-5, .texture-6, .texture-7, .texture-8, .texture-9, .texture-10 {
     background-size: 100%;
     background-repeat: no-repeat;
     height: 17% !important;
@@ -182,10 +182,10 @@
     background-position-y: 0px;
   }
   .texture-1 {
-    background-image: url(../texturas-mob-eng/vigas.jpg);
+    background-image: url(../texturas-mob-eng/texture-14);
   }
   .textura-1 {
-    background-image: url(../texturas-mobile-3/vigas.jpg);
+    background-image: url(../texturas-mobile-3/texture-14);
   }
   #textura-uno {
     top: 314px;
@@ -237,12 +237,56 @@
     width: 100%;
   }
   .texture-6 {
-    background-image: url(../texturas-mob-eng/sonido.jpg);
+    background-image: url(../texturas-mob-eng/texture-11);
   }
   .textura-6 {
-    background-image: url(../texturas-mobile-3/sonido.jpg);
+    background-image: url(../texturas-mobile-3/texture-11);
   }
   #textura-seis {
+    top: 56px;
+    left: auto;
+    width: 100%;
+  }
+  .texture-7 {
+    background-image: url(../texturas-mob-eng/texture-7);
+  }
+  .textura-7 {
+    background-image: url(../texturas-mobile-3/texture-7);
+  }
+  #textura-siete {
+    top: 56px;
+    left: auto;
+    width: 100%;
+  }
+  .texture-8 {
+    background-image: url(../texturas-mob-eng/texture-8);
+  }
+  .textura-8 {
+    background-image: url(../texturas-mobile-3/texture-8);
+  }
+  #textura-ocho {
+    top: 56px;
+    left: auto;
+    width: 100%;
+  }
+  .texture-9 {
+    background-image: url(../texturas-mob-eng/texture-9);
+  }
+  .textura-9 {
+    background-image: url(../texturas-mobile-3/texture-9);
+  }
+  #textura-nueve {
+    top: 56px;
+    left: auto;
+    width: 100%;
+  }
+  .texture-10 {
+    background-image: url(../texturas-mob-eng/texture-10);
+  }
+  .textura-10 {
+    background-image: url(../texturas-mobile-3/texture-10);
+  }
+  #textura-diez {
     top: 56px;
     left: auto;
     width: 100%;
