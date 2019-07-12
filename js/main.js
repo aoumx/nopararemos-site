@@ -4,7 +4,7 @@ $(document).ready(() => {
   })
 
   $('.textura-1').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-033.png");
+    $('body').css("background-image", "url(textures/textura_carpa.png");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.textura-2').on('click', () => {
@@ -24,31 +24,23 @@ $(document).ready(() => {
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.textura-6').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_lamina.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.textura-7').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_espejo.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.textura-8').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_color.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.textura-9').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_luz.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.textura-10').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
-    $('body').css("background-size", 2000 + "px " + 1125 + "px");
-  })
-  $('.textura-11').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
-    $('body').css("background-size", 2000 + "px " + 1125 + "px");
-  })
-  $('.textura-12').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_tablaroca.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
 
@@ -59,7 +51,7 @@ $(document).ready(() => {
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.texture-1').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-033.png");
+    $('body').css("background-image", "url(textures/textura_carpa.png");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.texture-2').on('click', () => {
@@ -79,31 +71,23 @@ $(document).ready(() => {
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.texture-6').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_lamina.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.texture-7').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_espejo.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.texture-8').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_color.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.texture-9').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_luz.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.texture-10').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
-    $('body').css("background-size", 2000 + "px " + 1125 + "px");
-  })
-  $('.texture-11').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
-    $('body').css("background-size", 2000 + "px " + 1125 + "px");
-  })
-  $('.texture-12').on('click', () => {
-    $('body').css("background-image", "url(textures/texturas_-066.png)");
+    $('body').css("background-image", "url(textures/textura_tablaroca.png)");
     $('body').css("background-size", 2000 + "px " + 1125 + "px");
   })
   $('.menu-principal').on('click', () => {
