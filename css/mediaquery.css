@@ -166,7 +166,8 @@
     text-align: left;
   }
 
-  /* TEXTURAS */
+  /* TEXTURAS Y UL TOPS
+  ------------------------- */
   #texturas {
     top: 110px;
     left: auto;
@@ -174,7 +175,7 @@
   .textura-1, .textura-2, .textura-3, .textura-4, .textura-5, .textura-6, .textura-7, .textura-8, .textura-9, .textura-10, .texture-1, .texture-2, .texture-3, .texture-4, .texture-5, .texture-6, .texture-7, .texture-8, .texture-9, .texture-10 {
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 17% !important;
+    height: 10% !important;
     width: 100% !important;
     position: absolute;
     top: 0px;
@@ -188,7 +189,7 @@
     background-image: url(../texturas-mobile-3/texture-14);
   }
   #textura-uno {
-    top: 314px;
+    top: 454px;
     left: auto;
     width: 100%;
   }
@@ -199,7 +200,7 @@
     background-image: url(../texturas-mobile-3/andamios.jpg);
   }
   #textura-dos {
-    top: 263px;
+    top: 410px;
     left: auto;
     width: 100%;
   }
@@ -210,7 +211,7 @@
     background-image: url(../texturas-mobile-3/ladrillo.jpg);
   }
   #textura-tres {
-      top: 211px;
+      top: 366px;
       left: auto;
       width: 100%;
   }
@@ -221,7 +222,7 @@
     background-image: url(../texturas-mobile-3/madera.jpg);
   }
   #textura-cuatro {
-    top: 159px;
+    top: 321px;
     left: auto;
     width: 100%;
   }
@@ -232,7 +233,7 @@
     background-image: url(../texturas-mobile-3/concreto.jpg);
   }
   #textura-cinco {
-    top: 108px;
+    top: 277px;
     left: auto;
     width: 100%;
   }
@@ -243,7 +244,7 @@
     background-image: url(../texturas-mobile-3/texture-11);
   }
   #textura-seis {
-    top: 56px;
+    top: 232px;
     left: auto;
     width: 100%;
   }
@@ -254,7 +255,7 @@
     background-image: url(../texturas-mobile-3/texture-7);
   }
   #textura-siete {
-    top: 56px;
+    top: 188px;
     left: auto;
     width: 100%;
   }
@@ -265,7 +266,7 @@
     background-image: url(../texturas-mobile-3/texture-8);
   }
   #textura-ocho {
-    top: 56px;
+    top: 144px;
     left: auto;
     width: 100%;
   }
@@ -276,7 +277,7 @@
     background-image: url(../texturas-mobile-3/texture-9);
   }
   #textura-nueve {
-    top: 56px;
+    top: 99px;
     left: auto;
     width: 100%;
   }
@@ -287,7 +288,7 @@
     background-image: url(../texturas-mobile-3/texture-10);
   }
   #textura-diez {
-    top: 56px;
+    top: 55px;
     left: auto;
     width: 100%;
   }
@@ -373,9 +374,10 @@
     padding: 0px;
     width: 100%;
   }
-  /* TEXTURA HOVER */
+  /* TEXTURA CLICK/HOVER EN MOBILE
+  ---------------------------------------------*/
   .textura-1:hover {
-    background-image: url(../texturas-mobile-3/vigas.jpg);
+    background-image: url(../texturas-mobile-3/texture-14);
   }
   .textura-2:hover {
     background-image: url(../texturas-mobile-3/andamios.jpg);
@@ -390,7 +392,52 @@
     background-image: url(../texturas-mobile-3/concreto.jpg);
   }
   .textura-6:hover {
-    background-image: url(../texturas-mobile-3/sonido.jpg);
+    background-image: url(../texturas-mobile-3/texture-11);
+  }
+  .textura-7:hover {
+    background-image: url(../texturas-mobile-3/texture-7);
+  }
+  .textura-8:hover {
+    background-image: url(../texturas-mobile-3/texture-8);
+  }
+  .textura-9:hover {
+    background-image: url(../texturas-mobile-3/texture-9);
+  }
+  .textura-10:hover {
+    background-image: url(../texturas-mobile-3/texture-10);
+  }
+
+  /* TEXTURA CLICK/HOVER EN INGLES MOBILE
+  ------------------------------------------------- */
+  .texture-1:hover {
+    background-image: url(../texturas-mob-eng/texture-14);
+  }
+  .texture-2:hover {
+    background-image: url(../texturas-mob-eng/andamios.jpg);
+  }
+  .texture-3:hover {
+    background-image: url(../texturas-mob-eng/ladrillo.jpg);
+  }
+  .texture-4:hover {
+    background-image: url(../texturas-mob-eng/madera.jpg);
+  }
+  .texture-5:hover {
+    background-image: url(../texturas-mob-eng/concreto.jpg);
+  }
+  .texture-6:hover {
+    background-image: url(../texturas-mob-eng/texture-11);
+  }
+  .texture-7:hover {
+    background-image: url(../texturas-mob-eng/texture-7);
+  }
+  .texture-8:hover {
+    background-image: url(../texturas-mob-eng/texture-8);
+  }
+  .texture-9:hover {
+    background-image: url(../texturas-mob-eng/texture-9);
+  }
+  .texture-10:hover {
+    background-image: url(../texturas-mob-eng/texture-10);
   }
 
   /* SUPERVISION MUSICAL */
