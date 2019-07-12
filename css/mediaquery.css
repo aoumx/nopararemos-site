@@ -73,99 +73,6 @@
     padding: 0px;
   }
 
-  /* PROYECTOS PRODUCCION */
-  #proyectos-produccion {
-    left: 0;
-    width: 100%;
-    top: 60px;
-  }
-  #descripcion-cerveza {
-    top: 285px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-lvmh {
-    top: 260px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-azul {
-    top: 235px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-hellow {
-    top: 210px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-casa {
-    top: 185px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-mutek {
-    top: 160px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-doritos {
-    top: 135px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-lancome {
-    top: 110px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-jose {
-    top: 85px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-barra-moet {
-    top: 60px;
-    left: auto;
-    text-align: left;
-  }
-  #descripcion-moet {
-    top: 35px;
-    left: auto;
-    text-align: left;
-  }
-
-  /* PROYECTOS DE SUPERVISION */
-  #proyectos-supervision {
-    left: 0;
-    width: 100%;
-    top: 35px;
-  }
-  #descripcion-artemio {
-    top: 110px;
-    left: auto;
-    width: 100%;
-    text-align: left;
-  }
-  #descripcion-niñas {
-    top: 85px;
-    left: auto;
-    width: 100%;
-    text-align: left;
-  }
-  #descripcion-chivas {
-    top: 60px;
-    left: auto;
-    width: 100%;
-    text-align: left;
-  }
-  #descripcion-camila {
-    top: 36px;
-    left: auto;
-    width: 100%;
-    text-align: left;
-  }
-
   /* TEXTURAS Y UL TOPS
   ------------------------- */
   #texturas {
@@ -416,10 +323,10 @@
     background-image: url(../texturas-mob-eng/andamios.jpg);
   }
   .texture-3:hover {
-    background-image: url(../texturas-mob-eng/ladrillo.jpg);
+    background-image: url(../texturas-mob-eng/ladrillos.jpg);
   }
   .texture-4:hover {
-    background-image: url(../texturas-mob-eng/madera.jpg);
+    background-image: url(../texturas-mob-eng/wood.jpg);
   }
   .texture-5:hover {
     background-image: url(../texturas-mob-eng/concreto.jpg);
