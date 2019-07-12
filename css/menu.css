@@ -240,7 +240,7 @@ element
     .Menu li li.-hasSubmenu > a,
     .Menu:not(.-horizontal) > li.-hasSubmenu > a > li.-hasSubmenu {
         padding-right: 28px;
-        width: 500px;
+        width: 369px;
     }
 
     /* WIDTH PROYECTOS produccion y supervision */

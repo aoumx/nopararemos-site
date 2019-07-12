@@ -1,9 +1,9 @@
 #texturas {
   width: 340px;
-  height: 310px;
+  height: 450px;
 }
 .texture-1 {
-  background-image: url(../texturas-redondas/textura-1.png);
+  background-image: url(../texturas-redondas/textura-14.png);
   background-size: 140px 140px;
   background-repeat: no-repeat;
   height: 140px !important;
@@ -18,7 +18,7 @@
   display: none !important;
 }
 .texture-1:hover{
-    background-image: url(../texturas-desk-eng/vigas.jpg);
+    background-image: url(../texturas-desk-eng/textura-14.png);
 }
 .texture-2 {
   background-image: url(../texturas-redondas/textura-2.png);
@@ -93,7 +93,7 @@
     background-image: url(../texturas-desk-eng/concreto.jpg);
 }
 .texture-6 {
-  background-image: url(../texturas-redondas/textura-6.png);
+  background-image: url(../texturas-redondas/textura-11.png);
   background-size: 110px 110px;
   background-repeat: no-repeat;
   height: 110px !important;
@@ -107,107 +107,74 @@
   display: none !important;
 }
 .texture-6:hover{
-    background-image: url(../texturas-desk-eng/sonido.jpg);
+    background-image: url(../texturas-desk-eng/textura-11.png);
 }
 .texture-7 {
-  background-image: url(../texturas-redondas/textura-6.png);
-  background-size: 110px 110px;
+  background-image: url(../texturas-redondas/textura-7.png);
+  background-size: 120px 120px;
   background-repeat: no-repeat;
-  height: 110px !important;
-  width: 110px !important;
+  height: 120px !important;
+  width: 120px !important;
   position: absolute;
-  top: -585px;
-  left: 34px;
+  top: -445px;
+  left: 45px;
 }.texture-7 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 120px !important;
+  width: 120px !important;
   display: none !important;
 }
 .texture-7:hover{
-    background-image: url(../texturas-desk-eng/sonido.jpg);
+    background-image: url(../texturas-desk-eng/textura-7.png);
 }
 .texture-8 {
-  background-image: url(../texturas-redondas/textura-6.png);
-  background-size: 110px 110px;
+  background-image: url(../texturas-redondas/textura-8.png);
+  background-size: 130px 130px;
   background-repeat: no-repeat;
-  height: 110px !important;
-  width: 110px !important;
+  height: 130px !important;
+  width: 130px !important;
   position: absolute;
-  top: -585px;
-  left: 34px;
+  top: -605px;
+  left: 175px;
 }.texture-8 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 130px !important;
+  width: 130px !important;
   display: none !important;
 }
 .texture-8:hover{
-    background-image: url(../texturas-desk-eng/sonido.jpg);
+    background-image: url(../texturas-desk-eng/textura-8.png);
 }
 .texture-9 {
-  background-image: url(../texturas-redondas/textura-6.png);
-  background-size: 110px 110px;
+  background-image: url(../texturas-redondas/textura-9.png);
+  background-size: 100px 100px;
   background-repeat: no-repeat;
-  height: 110px !important;
-  width: 110px !important;
+  height: 100px !important;
+  width: 100px !important;
   position: absolute;
-  top: -585px;
-  left: 34px;
+  top: -935px;
+  left: 225px;
 }.texture-9 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 100px !important;
+  width: 100px !important;
   display: none !important;
 }
 .texture-9:hover{
-    background-image: url(../texturas-desk-eng/sonido.jpg);
+    background-image: url(../texturas-desk-eng/textura-9.png);
 }
 .texture-10 {
-  background-image: url(../texturas-redondas/textura-6.png);
-  background-size: 110px 110px;
+  background-image: url(../texturas-redondas/textura-10.png);
+  background-size: 120px 120px;
   background-repeat: no-repeat;
-  height: 110px !important;
-  width: 110px !important;
+  height: 120px !important;
+  width: 120px !important;
   position: absolute;
-  top: -585px;
-  left: 34px;
+  top: -736px;
+  left: 128px;
 }.texture-10 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 120px !important;
+  width: 120px !important;
   display: none !important;
 }
 .texture-10:hover{
-    background-image: url(../texturas-desk-eng/sonido.jpg);
+    background-image: url(../texturas-desk-eng/textura-10.png);
 }
-.texture-11 {
-  background-image: url(../texturas-redondas/textura-6.png);
-  background-size: 110px 110px;
-  background-repeat: no-repeat;
-  height: 110px !important;
-  width: 110px !important;
-  position: absolute;
-  top: -585px;
-  left: 34px;
-}.texture-11 > a {
-  height: 110px !important;
-  width: 110px !important;
-  display: none !important;
-}
-.texture-11:hover{
-    background-image: url(../texturas-desk-eng/sonido.jpg);
-}
-.texture-12 {
-  background-image: url(../texturas-redondas/textura-6.png);
-  background-size: 110px 110px;
-  background-repeat: no-repeat;
-  height: 110px !important;
-  width: 110px !important;
-  position: absolute;
-  top: -585px;
-  left: 34px;
-}.texture-12 > a {
-  height: 110px !important;
-  width: 110px !important;
-  display: none !important;
-}
-.texture-12:hover{
-    background-image: url(../texturas-desk-eng/sonido.jpg);
-}
+

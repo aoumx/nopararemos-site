@@ -1,9 +1,9 @@
 #texturas {
   width: 340px;
-  height: 310px;
+  height: 450px;
 }
 .textura-1 {
-  background-image: url(../texturas-redondas/textura-1.png);
+  background-image: url(../texturas-redondas/textura-14.png);
   background-size: 140px 140px;
   background-repeat: no-repeat;
   height: 140px !important;
@@ -18,7 +18,7 @@
   display: none !important;
 }
 .textura-1:hover{
-    background-image: url(../texturas-hover/textura-1.png);
+    background-image: url(../texturas-hover/textura-14.png);
 }
 .textura-2 {
   background-image: url(../texturas-redondas/textura-2.png);
@@ -93,7 +93,7 @@
     background-image: url(../texturas-hover/textura-5.png);
 }
 .textura-6 {
-  background-image: url(../texturas-redondas/textura-6.png);
+  background-image: url(../texturas-redondas/textura-11.png);
   background-size: 110px 110px;
   background-repeat: no-repeat;
   height: 110px !important;
@@ -107,107 +107,74 @@
   display: none !important;
 }
 .textura-6:hover{
-    background-image: url(../texturas-hover/textura-6.png);
+    background-image: url(../texturas-hover/textura-11.png);
 }
 .textura-7 {
-  background-image: url(../textures/Mirror.png);
-  background-size: 210px 210px;
+  background-image: url(../texturas-redondas/textura-7.png);
+  background-size: 120px 120px;
   background-repeat: no-repeat;
-  height: 210px !important;
-  width: 210px !important;
+  height: 120px !important;
+  width: 120px !important;
   position: absolute;
-  top: -285px;
-  left: 34px;
+  top: -445px;
+  left: 45px;
 }.textura-7 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 120px !important;
+  width: 120px !important;
   display: none !important;
 }
 .textura-7:hover{
-    background-image: url(../texturas-hover/textura-6.png);
+    background-image: url(../texturas-hover/textura-7.png);
 }
 .textura-8 {
-  background-image: url(../textures/Mirror.png);
-  background-size: 210px 210px;
+  background-image: url(../texturas-redondas/textura-8.png);
+  background-size: 130px 130px;
   background-repeat: no-repeat;
-  height: 210px !important;
-  width: 210px !important;
+  height: 130px !important;
+  width: 130px !important;
   position: absolute;
-  top: -285px;
-  left: 34px;
+  top: -605px;
+  left: 175px;
 }.textura-8 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 130px !important;
+  width: 130px !important;
   display: none !important;
 }
 .textura-8:hover{
-    background-image: url(../texturas-hover/textura-6.png);
+    background-image: url(../texturas-hover/textura-8.png);
 }
 .textura-9 {
-  background-image: url(../textures/Mirror.png);
-  background-size: 210px 210px;
+  background-image: url(../texturas-redondas/textura-9.png);
+  background-size: 100px 100px;
   background-repeat: no-repeat;
-  height: 210px !important;
-  width: 210px !important;
+  height: 100px !important;
+  width: 100px !important;
   position: absolute;
-  top: -285px;
-  left: 34px;
+  top: -935px;
+  left: 225px;
 }.textura-9 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 100px !important;
+  width: 100px !important;
   display: none !important;
 }
 .textura-9:hover{
-    background-image: url(../texturas-hover/textura-6.png);
+    background-image: url(../texturas-hover/textura-9.png);
 }
 .textura-10 {
-  background-image: url(../textures/Mirror.png);
-  background-size: 210px 210px;
+  background-image: url(../texturas-redondas/textura-10.png);
+  background-size: 120px 120px;
   background-repeat: no-repeat;
-  height: 210px !important;
-  width: 210px !important;
+  height: 120px !important;
+  width: 120px !important;
   position: absolute;
-  top: -285px;
-  left: 34px;
+  top: -736px;
+  left: 128px;
 }.textura-10 > a {
-  height: 110px !important;
-  width: 110px !important;
+  height: 120px !important;
+  width: 120px !important;
   display: none !important;
 }
 .textura-10:hover{
-    background-image: url(../texturas-hover/textura-6.png);
+    background-image: url(../texturas-hover/textura-10.png);
 }
-.textura-11 {
-  background-image: url(../textures/Mirror.png);
-  background-size: 210px 210px;
-  background-repeat: no-repeat;
-  height: 210px !important;
-  width: 210px !important;
-  position: absolute;
-  top: -285px;
-  left: 34px;
-}.textura-11 > a {
-  height: 110px !important;
-  width: 110px !important;
-  display: none !important;
-}
-.textura-11:hover{
-    background-image: url(../texturas-hover/textura-6.png);
-}
-.textura-12 {
-  background-image: url(../textures/Mirror.png);
-  background-size: 210px 210px;
-  background-repeat: no-repeat;
-  height: 210px !important;
-  width: 210px !important;
-  position: absolute;
-  top: -285px;
-  left: 34px;
-}.textura-12 > a {
-  height: 110px !important;
-  width: 110px !important;
-  display: none !important;
-}
-.textura-12:hover{
-    background-image: url(../texturas-hover/textura-6.png);
-}
+
